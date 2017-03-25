@@ -1,2 +1,6 @@
+v 0.0.2
+    - Updated view
+    - Added scheduled mysql inserts and requests
+
 v 0.0.1
     - Initial release
