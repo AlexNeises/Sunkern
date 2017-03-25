@@ -22,8 +22,11 @@
     "gulp-util": "^3.0.8"
   },
   "dependencies": {
+    "csvtojson": "^1.1.4",
     "express": "^4.15.2",
     "moment": "^2.18.1",
+    "mysql": "^2.13.0",
+    "node-schedule": "^1.2.1",
     "pug": "^2.0.0-beta11",
     "socket.io": "^1.7.3"
   }
