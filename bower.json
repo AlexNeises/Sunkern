@@ -1,0 +1,21 @@
+{
+  "name": "sunkern",
+  "description": "iNode.js real-time weather dashboard",
+  "main": "app.js",
+  "authors": [
+    "Alex Neises"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AlexNeises/Sunkern",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "jquery": "^3.2.1"
+  }
+}
