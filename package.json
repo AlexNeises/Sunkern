@@ -1,6 +1,6 @@
 {
   "name": "sunkern",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "iNode.js real-time weather dashboard",
   "main": "app.js",
   "scripts": {
